@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+body {
+    height: 100vh; /* view port heigh serve para deixar a pagina ocupando 100%*/
+    color:white;
+    background: #EBF2F5;
+}
+:root {
+    font-size: 62.5%;
+} /* o root é o tamanho padrão da fonte no navegador definido pelo chrome, invocado pelo REM */
+body, input, button, textarea {
+/* font-size: 18px;
+line-height: 1;
+font-weight: 400;
+font-family: 'Nunito', sans-serif; 
+peso, tamanho, tamanho da linha, fonte, fonte2..
+*/
+font: 400 1.8rem/1 'Nunito', sans-serif;
+
+}
+
+
+/* animações */
+
+
+#logo {
+    animation-delay: 50ms;
+}
+.location{
+    animation-delay: 100ms;
+}
+main h1 {
+    animation-delay: 150ms;
+    
+    font-size: clamp(4rem, 8vw, 8.4rem);
+
+}
+.visit p {
+    animation-delay: 200ms;
+}
