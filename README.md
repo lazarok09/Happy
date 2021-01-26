@@ -7,7 +7,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Execução">Execução</a>
+  <a href="#-Executar">Execução</a>
 </p>
 
 <p align="center">
@@ -56,7 +56,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 --
-#Execução
+
+##Executar
 ## Clonar o repositório na sua máquina.
 ### Abrir o repositório, dentro do seu editor favorito, executar no terminal
 ~~~javascript
