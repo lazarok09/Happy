@@ -58,7 +58,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 --
 
 <h2 id="executar">
-Como Executar
+:red_circle: Como Executar
 </h2>
 
 ### Clone e abra o repositório, dentro do seu editor favorito, execute no terminal =>
