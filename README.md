@@ -6,7 +6,8 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Execução">Execução</a>
 </p>
 
 <p align="center">
@@ -55,7 +56,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 --
-# Como executar o projeto
+#Execução
 ## Clonar o repositório na sua máquina.
 ### Abrir o repositório, dentro do seu editor favorito, executar no terminal
 ~~~javascript
@@ -67,13 +68,14 @@ npm install node
 npm start
 ~~~~
 ##### Será aberto a aplicação, cole no URL do seu navegador - localhost:5500
-# Autor
-Lazaro Jose da Silva de Souza <br>
-Estudante de Análise e Desenvolvimento de Sistemas pela UNINABUCO na modalidade EAD<br>
+## Autor
+Lazaro Souza :runner: <br>
 Entusiasta na arte de aprender algo do zero<br>
+Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas :books: (2020-2022)<br>
+
 https://www.linkedin.com/in/lazarok09
-## Aprenda a usar o [markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) no seu GitHub
-## Use [emojis](https://github.com/ikatyang/emoji-cheat-sheet) no seu readme :P
+### Aprenda a usar o [markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) no seu GitHub
+#### Use [emojis](https://github.com/ikatyang/emoji-cheat-sheet) no seu readme :P
 
 < / :heart: >
 
