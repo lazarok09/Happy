@@ -35,7 +35,7 @@ L
 /* image gallary */
 
 function selectImage(event) {
-    /* console.log("cliquei no botao"); */
+    
     const button = event.currentTarget /* event.currentTarget é um alvo que foi clicado da constante criada nomeada button */
     //remover todas as classes active ///
     const buttons = document.querySelectorAll(".images button") /*queryselectall vai procurar os atributos css .images
@@ -50,14 +50,13 @@ function selectImage(event) {
     
     
 
-    // selecionar a imagem clicada // 
+    // selecionar a imagem clicada
     const image = button.children[0]
     const imageContainer = document.querySelector(".orphanage-details > img" )
-    // atualizar o container da imagem do botao clicado // 
-    imageContainer.src = image.src /* esse container possui o endereço encontrado em .orphanage-details > img 
-                                    uma vez encontrado é atribuido ao image. */
+    // Atualizar o container da imagem do botao clicado
+    imageContainer.src = image.src
 
-    // adicionar classe .active pra esse botao //
+    // adicionar classe .active pra esse botao 
     button.classList.add('active')
 }
 
