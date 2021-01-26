@@ -7,7 +7,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Execução">Execução</a>
+  <a href="#Execução">Execução</a>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ npm install node
 npm start
 ~~~~
 ##### Será aberto a aplicação, cole no URL do seu navegador - localhost:5500
-## Autor
+## :pencil2: Autor
 Lazaro Souza :runner: <br>
 Entusiasta na arte de aprender algo do zero<br>
 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas :books: (2020-2022)<br>
