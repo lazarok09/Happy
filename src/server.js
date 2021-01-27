@@ -7,7 +7,7 @@ const path = require('path');
 const pages = require('./pages.js')
 
 // iniciando a biblioteca express
-const server = express()            /* executa a função para o servidor */
+const server = express()
 server
 // utilizar body do require
 .use(express.urlencoded({ extended: true }))
