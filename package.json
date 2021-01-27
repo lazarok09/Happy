@@ -10,6 +10,7 @@
   "author": "lazarok09",
   "license": "ISC",
   "dependencies": {
+    "node": "^15.4.0",
     "express": "^4.17.1",
     "hbs": "^4.1.1",
     "sqlite-async": "^1.1.0",
