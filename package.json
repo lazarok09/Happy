@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "NODE_ENV=production"
+    "start": "node src/server.js"
   },
   "keywords": [],
   "author": "lazarok09",
